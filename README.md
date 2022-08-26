@@ -7,6 +7,6 @@ Arduino UNO Is used for the car which is connected to Receiver that receives the
 transmitter circuit. An H Bridge uses the signal accordingly for the motor. IR sensor that is used for object 
 detection and Gas sensor for smoke. Speaker acts as our indicator for the presence of smoke, objects in 
 front of the rover, when the car is going in reverse.
-\pagebreak
+/pagebreak
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/79040060/186901948-2a8497d8-4fbc-4c32-9de7-956bdfb351b7.png">
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/79040060/186902071-cbd91642-f561-43d3-adc3-0c57ffbc5bad.png">
