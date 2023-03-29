@@ -1,5 +1,5 @@
 # LucyTheRover
-To control the Rover, a controller is designed. With the help of an Arduino UNO, a joystick with an X-axis 
+A controller is designed to control the Rover. With the help of an Arduino UNO, a joystick with an X-axis 
 and Y-axis was programmed to control the rover’s mobility. A transmitter was attached to the Arduino 
 board to pair with the receiver on the Rover. The transmitter with the help of an antenna was put together 
 to enable radio wave communication between the remote control of the rover and the rover itself. An 
